@@ -8,3 +8,4 @@ Making my first directory in the tmp directory
 Moving the file betty from /tmp/ to /tmp/my_first_directory
 Command for deleting the file betty
 Command that deletes the directory my_first_directory that is in the /tmp directory
+Command that changes the working directory to the previous one
