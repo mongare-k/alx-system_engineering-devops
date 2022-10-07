@@ -7,3 +7,4 @@ Command to display current directory contents ,long format with user and group I
 Making my first directory in the tmp directory
 Moving the file betty from /tmp/ to /tmp/my_first_directory
 Command for deleting the file betty
+Command that deletes the directory my_first_directory that is in the /tmp directory
