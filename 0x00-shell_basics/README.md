@@ -6,3 +6,4 @@ Command to display current directory contents, including hidden files (starting 
 Command to display current directory contents ,long format with user and group IDs displayed numerically and hidden files
 Making my first directory in the tmp directory
 Moving the file betty from /tmp/ to /tmp/my_first_directory
+Command for deleting the file betty
