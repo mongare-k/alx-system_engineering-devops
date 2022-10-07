@@ -14,3 +14,4 @@ Command that prints the type of the file named iamafile
 Command for creating symbolic links
 Command that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
 Command that moves all files beginning with an uppercase letter to the directory /tmp/u
+Command that deletes all files in the current working directory that end with the character ~
