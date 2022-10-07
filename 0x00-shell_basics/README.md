@@ -16,3 +16,4 @@ Command that copies all the HTML files from the current working directory to the
 Command that moves all files beginning with an uppercase letter to the directory /tmp/u
 Command that deletes all files in the current working directory that end with the character ~
 Command that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
+Command that lists all the files and directories of the current directory, separated by commas (,)
