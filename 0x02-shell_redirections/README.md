@@ -5,3 +5,4 @@ Command that displays the content of /etc/passwd and /etc/hosts
 Command that displays the last 10 lines of /etc/passwd
 Command that displays the first 10 lines of /etc/passwd
 Command that displays the third line of the file iacta
+Command that creates a file containing text, ending on a new line
