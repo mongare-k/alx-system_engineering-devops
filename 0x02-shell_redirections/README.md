@@ -18,3 +18,4 @@ Command that displays lines containing the pattern “root” and 3 lines after 
 Command that displays all the lines in the file /etc/passwd that do not contain the pattern “bin”
 Command that displays all lines of the file /etc/ssh/sshd_config starting with a letter
 Command that replaces all characters A and c from input to Z and e respectively
+Command that removes all letters c and C from input
