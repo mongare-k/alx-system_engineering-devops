@@ -20,3 +20,4 @@ Command that displays all lines of the file /etc/ssh/sshd_config starting with a
 Command that replaces all characters A and c from input to Z and e respectively
 Command that removes all letters c and C from input
 Command that reverses its input
+Command that displays all users and their home directories, sorted by users
