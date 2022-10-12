@@ -22,3 +22,4 @@ Command that removes all letters c and C from input
 Command that reverses its input
 Command that displays all users and their home directories, sorted by users
 Command that finds all empty files and directories in the current directory and all sub-directories
+Command that lists all the files with a .gif extension in the current directory and all its sub-directories
