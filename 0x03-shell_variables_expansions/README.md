@@ -14,3 +14,4 @@ Command that prints all possible combinations of two letters, except oo
 Command that prints a number with two decimal places, followed by a new line
 Command that converts a number from base 10 to base 16
 Command that encodes and decodes text using the rot13 encryption. Assume ASCII
+Command that prints every other line from the input, starting with the first line
