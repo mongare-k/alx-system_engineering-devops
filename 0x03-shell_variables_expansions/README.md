@@ -8,3 +8,4 @@ Command that creates a new local variable
 Command that creates a new global variable
 Command that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
 Command that prints the result of POWER divided by DIVIDE, followed by a new line
+Command that displays the result of BREATH to the power LOVE
